@@ -23,19 +23,22 @@ A React app to search for movies and save your favourites, powered by the TMDB A
 
 ---
 
-<img width="1857" height="825" alt="image" src="https://github.com/user-attachments/assets/bf8e36c5-d8d2-4015-b396-06852af22872" />
+<img width="1856" height="824" alt="image" src="https://github.com/user-attachments/assets/afc5a8cc-e618-46e2-a4b3-2ceb275114ff" />
+
 
 ---
 
-<img width="1865" height="823" alt="image" src="https://github.com/user-attachments/assets/007410a3-1596-45d5-9a15-ebc0c5994fc2" />
+<img width="1858" height="802" alt="image" src="https://github.com/user-attachments/assets/16b08b70-561b-4258-a56b-c15da18426ff" />
+
 
 ---
 
-<img width="1875" height="753" alt="image" src="https://github.com/user-attachments/assets/149612d5-6d59-4aac-b447-9a1919268592" />
+<img width="1873" height="769" alt="image" src="https://github.com/user-attachments/assets/58c5f330-cd6f-44cc-b06d-de56aa939415" />
+
 
 ---
 
-<img width="1874" height="803" alt="image" src="https://github.com/user-attachments/assets/3f108cbf-7512-4e7d-94f8-20d945ca0cb1" />
+<img width="1874" height="725" alt="image" src="https://github.com/user-attachments/assets/57d158dc-c73c-47a2-a201-9c5d3365a097" />
 
 
 
